@@ -14,5 +14,10 @@ Puedes explorar las carpetas y archivos para descubrir todo lo que comparto.
 ## Recursos destacados
 
 - [Herramientas online útiles](herramientas-utiles.md)
-<!-- - [Extensiones VS Code](extensiones-vscode/README.md)
- - [Componentes Flutter](componentes-flutter/) -->
+  
+<!-- Secciones pendientes de contenido, desactivadas para evitar errores 404 -->
+
+<!--
+- [Extensiones VS Code](extensiones-vscode/README.md)
+- [Componentes Flutter](componentes-flutter/)
+-->
