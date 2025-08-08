@@ -15,6 +15,7 @@ Puedes explorar las carpetas y archivos para descubrir todo lo que comparto.
 
 - [Herramientas online útiles](herramientas-utiles.md)
 - [Extensiones VS Code](extensiones-vscode/README.md)
+- [Páginas útiles para programar](docs/paginas_utiles.md)
 
 
 <!-- 
